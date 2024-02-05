@@ -1,0 +1,13 @@
+{
+  "id" : "https://MarinaHervieu.github.io/IIIF_EnglishClass/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in MarinaHervieu/IIIF_EnglishClass project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://MarinaHervieu.github.io/IIIF_EnglishClass/manifests/manifest.json",
+    "label" : "IIIF - English class"
+  } ]
+}
