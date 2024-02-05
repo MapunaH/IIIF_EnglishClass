@@ -1,0 +1,369 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://MarinaHervieu.github.io/IIIF_EnglishClass/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "IIIF - English class",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "Henri Rivière (1864 - 1951)"
+  }, {
+    "label" : "Date",
+    "value" : "1901-1902"
+  }, {
+    "label" : "Century",
+    "value" : "XXth"
+  }, {
+    "label" : "Material description",
+    "value" : "Print, color lithography"
+  }, {
+    "label" : "Bibliographical informations",
+    "value" : "From collection Noufflard Guy-Loé, purchased in 2003. Inventory number : EM RIVIERE 3_"
+  }, {
+    "label" : "Place of publication",
+    "value" : "Unknown"
+  }, {
+    "label" : "Edition",
+    "value" : "Unknown"
+  }, {
+    "label" : "Numerisation date",
+    "value" : "2009"
+  }, {
+    "label" : "Collection",
+    "value" : "Bibliothèque de l'Institut National d'Histoire de l'Art, collections Jacques Doucet"
+  } ],
+  "description" : [ {
+    "@value" : "IIIF Assignement - Landscape of colors",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Marina Hervieu",
+  "sequences" : [ {
+    "@id" : "http://933cd553-e5e6-40e9-a3e7-513fae321c73",
+    "@type" : "sc:Sequence",
+    "label" : "Auteur",
+    "canvases" : [ {
+      "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65638/canvas/1",
+      "label" : "1",
+      "height" : 2412,
+      "width" : 3164,
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "@type" : "oa:Annotation",
+        "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65638/annotation/1",
+        "on" : "https://bibliotheque-numerique.inha.fr/iiif/65638/canvas/1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "profile" : "https://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/6c/47/e0/7b/6c47e07b-0047-4095-8419-4a26cddd04e1/iiif/1092_doucet_EMRIVIERE027.tif"
+          },
+          "height" : 2412,
+          "width" : 3164,
+          "@type" : "dctypes:Image",
+          "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/6c/47/e0/7b/6c47e07b-0047-4095-8419-4a26cddd04e1/iiif/1092_doucet_EMRIVIERE027.tif/full/full/0/default.jpg"
+        }
+      } ],
+      "related" : {
+        "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65638/manifest",
+        "label" : "[Le Port]",
+        "format" : "37,7 x 50 xm ; 50 x 65,5 cm"
+      },
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "The harbour (Le Port)"
+      }, {
+        "label" : "Date",
+        "value" : "1906"
+      }, {
+        "label" : "Object",
+        "value" : "Collection \"Noroît wind\""
+      }, {
+        "label" : "Size",
+        "value" : "37,7 x 50 cm ; 50 x 65,5 cm (sheet)"
+      }, {
+        "label" : "(Numerical) inventory number",
+        "value" : "(NUM) EM RIVIERE 27"
+      } ]
+    }, {
+      "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65646/canvas/1",
+      "label" : "2",
+      "height" : 2432,
+      "width" : 3168,
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://aecd503e-5d58-4970-8d9f-aa96c4ca04f8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/e8/03/ce/ce/e803cece-989f-4ef0-bf17-64f2ca02f493/iiif/1092_doucet_EMRIVIERE028.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/e8/03/ce/ce/e803cece-989f-4ef0-bf17-64f2ca02f493/iiif/1092_doucet_EMRIVIERE028.tif",
+            "profile" : "level2"
+          },
+          "height" : 2432,
+          "width" : 3168
+        },
+        "on" : "https://bibliotheque-numerique.inha.fr/iiif/65646/canvas/1"
+      } ],
+      "related" : [ {
+        "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65646/manifest",
+        "label" : "[Les Vieux]",
+        "format" : "37, 7 x 50 ; 50 x 65,5 cm (sheet)"
+      }, {
+        "@id" : "",
+        "label" : "",
+        "format" : ""
+      } ],
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "The old (Les vieux)"
+      }, {
+        "label" : "Date",
+        "value" : "1906"
+      }, {
+        "label" : "Object",
+        "value" : "Collection \"Noroît wind\""
+      }, {
+        "label" : "Size",
+        "value" : "37,7 x 50 cm ; 50 x 65,5 cm (sheet)"
+      }, {
+        "label" : "(Numerical) inventory number",
+        "value" : "(NUM) EM RIVIERE 28"
+      } ]
+    }, {
+      "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65631/canvas/1",
+      "label" : "3",
+      "height" : 2420,
+      "width" : 3180,
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ef8b314d-7376-4be2-8fb5-e8a8417ec925",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/81/2d/37/b0/812d37b0-51ff-4f12-aa7a-f8483a3a5230/iiif/1092_doucet_EMRIVIERE026.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/81/2d/37/b0/812d37b0-51ff-4f12-aa7a-f8483a3a5230/iiif/1092_doucet_EMRIVIERE026.tif",
+            "profile" : "level2"
+          },
+          "height" : 2420,
+          "width" : 3180
+        },
+        "on" : "https://bibliotheque-numerique.inha.fr/iiif/65631/canvas/1"
+      } ],
+      "related" : {
+        "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65631/manifest",
+        "label" : "[Les Mousses]",
+        "format" : ""
+      },
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "The Mousses (Les Mousses)"
+      }, {
+        "label" : "Date",
+        "value" : "1906"
+      }, {
+        "label" : "Object",
+        "value" : "Collection \"Noroît wind\""
+      }, {
+        "label" : "Size",
+        "value" : "37,7 x 50 cm ; 50 x 65,5 cm (sheet)"
+      }, {
+        "label" : "(Numerical) inventory number",
+        "value" : "(NUM) EM RIVIERE 26"
+      } ]
+    }, {
+      "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65629/canvas/1",
+      "label" : "4",
+      "height" : 3034,
+      "width" : 1398,
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "@type" : "oa:Annotation",
+        "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65629/annotation/1",
+        "on" : "https://bibliotheque-numerique.inha.fr/iiif/65629/canvas/1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "profile" : "https://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/e5/d2/42/17/e5d24217-1fb3-4828-ba37-58136da6e54e/iiif/1092_doucet_EMRIVIERE030.tif"
+          },
+          "height" : 3034,
+          "width" : 1398,
+          "@type" : "dctypes:Image",
+          "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/e5/d2/42/17/e5d24217-1fb3-4828-ba37-58136da6e54e/iiif/1092_doucet_EMRIVIERE030.tif/full/full/0/default.jpg"
+        }
+      } ],
+      "related" : {
+        "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65629/manifest",
+        "label" : "[Le premier quartier]",
+        "format" : ""
+      },
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "The first quarter (Le premier quartier)"
+      }, {
+        "label" : "Date",
+        "value" : "1903"
+      }, {
+        "label" : "Object",
+        "value" : "Collection \"The beautiful country of French Britany\""
+      }, {
+        "label" : "Size",
+        "value" : "35 x 22,8 cm ; 65 x 50,3 cm (sheet)"
+      }, {
+        "label" : "(Numerical) Inventory number",
+        "value" : "(NUM) EM RIVIERE 36"
+      }, {
+        "label" : "Information",
+        "value" : "Lithographic print n°6 from the series of 20 prints entitled \"Le Beau Pays de Bretagne\""
+      } ]
+    }, {
+      "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65648/canvas/1",
+      "label" : "5",
+      "height" : 3154,
+      "width" : 2460,
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "@type" : "oa:Annotation",
+        "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65648/annotation/1",
+        "on" : "https://bibliotheque-numerique.inha.fr/iiif/65648/canvas/1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "profile" : "https://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/cb/db/74/27/cbdb7427-bf81-4e67-9bc9-c570a55e6cb8/iiif/1092_doucet_EMRIVIERE036.tif"
+          },
+          "height" : 3154,
+          "width" : 2460,
+          "@type" : "dctypes:Image",
+          "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/cb/db/74/27/cbdb7427-bf81-4e67-9bc9-c570a55e6cb8/iiif/1092_doucet_EMRIVIERE036.tif/full/full/0/default.jpg"
+        }
+      } ],
+      "related" : {
+        "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65648/manifest",
+        "label" : "[Les bords du Trieux au crépuscule]",
+        "format" : ""
+      },
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "The banks of the Trieux at dusk (Les bords du Trieux au crépuscule)"
+      }, {
+        "label" : "Date",
+        "value" : "1903"
+      }, {
+        "label" : "Object",
+        "value" : "Collection \"The beautiful country of French Britany\""
+      }, {
+        "label" : "(Numerical) inventory number",
+        "value" : "(NUM) EM RIVIERE 36"
+      } ]
+    }, {
+      "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65634/canvas/1",
+      "label" : "6",
+      "height" : 3256,
+      "width" : 1632,
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "@type" : "oa:Annotation",
+        "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65634/annotation/1",
+        "on" : "https://bibliotheque-numerique.inha.fr/iiif/65634/canvas/1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "profile" : "https://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/c0/92/29/04/c0922904-3128-4846-8210-51bb57922dc8/iiif/1092_doucet_EMRIVIERE031.tif"
+          },
+          "height" : 3256,
+          "width" : 1632,
+          "@type" : "dctypes:Image",
+          "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/c0/92/29/04/c0922904-3128-4846-8210-51bb57922dc8/iiif/1092_doucet_EMRIVIERE031.tif/full/full/0/default.jpg"
+        }
+      } ],
+      "related" : {
+        "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65634/manifest",
+        "label" : "[Les derniers rayons]",
+        "format" : ""
+      },
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "The last rays (Les derniers rayons)"
+      }, {
+        "label" : "Date",
+        "value" : "1901 - 1902"
+      }, {
+        "label" : "Object",
+        "value" : "Collection \"The magic hours\""
+      }, {
+        "label" : "Size",
+        "value" : "24 x 60 cm ; 68 x 31 cm (sheet)"
+      }, {
+        "label" : "(Numerical) inventory number",
+        "value" : "(NUM) EM RIVIERE 31"
+      } ]
+    }, {
+      "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65639/canvas/1",
+      "label" : "7",
+      "height" : 1548,
+      "width" : 3244,
+      "@type" : "sc:Canvas",
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "@type" : "oa:Annotation",
+        "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65639/annotation/1",
+        "on" : "https://bibliotheque-numerique.inha.fr/iiif/65639/canvas/1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "https://iiif.io/api/image/2/context.json",
+            "profile" : "https://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/d9/aa/56/e4/d9aa56e4-ac46-4370-8eaa-1203e71dcb5b/iiif/1092_doucet_EMRIVIERE032.tif"
+          },
+          "height" : 1548,
+          "width" : 3244,
+          "@type" : "dctypes:Image",
+          "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/d9/aa/56/e4/d9aa56e4-ac46-4370-8eaa-1203e71dcb5b/iiif/1092_doucet_EMRIVIERE032.tif/full/full/0/default.jpg"
+        }
+      } ],
+      "related" : {
+        "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65639/manifest",
+        "label" : "[La tempête]",
+        "format" : ""
+      },
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "The storm (La Tempête)"
+      }, {
+        "label" : "Date",
+        "value" : "1901-1902"
+      }, {
+        "label" : "Object",
+        "value" : "Collection \"The magic of hours\""
+      }, {
+        "label" : "SIze",
+        "value" : "60 x 24 cm ; 31 x 68,2 cm (sheet)"
+      }, {
+        "label" : "(Numerical) inventory number",
+        "value" : "(NUM) EM RIVIERE 32"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ],
+  "viewingDirection" : "left-to-right"
+}
