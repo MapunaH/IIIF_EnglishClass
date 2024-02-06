@@ -1,0 +1,237 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Asymmetrical framing and diagonal construction.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Asymmetrical</strong> framing and <strong>diagonal</strong> construction.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/150180019",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-06T19:33:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707248016396",
+    "dcterms:modified" : "2024-02-06T19:33:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MarinaHervieu.github.io/IIIF_EnglishClass/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=450,521,1863,998"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M449.60832,1519.53488l1863.13341,-995.25092v-2.96206\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_9d540c34-7d96-49c7-8412-cffc9ab55828\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://bibliotheque-numerique.inha.fr/iiif/65631/canvas/1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Skyline closer to the sky than the earth. <a title=\"Hiroshige-Hitsu, P&ecirc;che au Japon, 1855, ark:/12148/btv1b10526951n\" href=\"https://gallica.bnf.fr/view3if/ga/ark:/12148/btv1b10526951n\" target=\"_blank\" rel=\"noopener\">https://gallica.bnf.fr/view3if/ga/ark:/12148/btv1b10526951n",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Skyline closer</strong> to the sky than the earth. <a title=\"Hiroshige-Hitsu, P&ecirc;che au Japon, 1855, ark:/12148/btv1b10526951n\" href=\"https://gallica.bnf.fr/view3if/ga/ark:/12148/btv1b10526951n\" target=\"_blank\" rel=\"noopener\">https://gallica.bnf.fr/view3if/ga/ark:/12148/btv1b10526951n</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/150180019",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-06T19:28:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707247732032",
+    "dcterms:modified" : "2024-02-06T19:28:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MarinaHervieu.github.io/IIIF_EnglishClass/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=447,515,2310,3"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M446.64627,518.35985l2310.40392,-2.96206z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_f603bce3-3243-4478-8e68-c359143f9726\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://bibliotheque-numerique.inha.fr/iiif/65631/canvas/1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Repetition of the human pattern.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Repetition of the human pattern.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/150180019",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-06T20:03:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707249836559",
+    "dcterms:modified" : "2024-02-06T20:03:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MarinaHervieu.github.io/IIIF_EnglishClass/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1840,632,288,368"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1881.80251,686.27014c26.59965,-30.93431 64.12278,-53.97004 101.82773,-53.94251v0v0c37.70496,0.02752 70.5523,21.57708 101.82773,53.94251c31.27543,32.36544 43.4318,81.68412 42.17843,130.22875c-1.25337,48.54463 -15.91647,96.31521 -42.17843,130.22875c-26.26196,33.91354 -64.12278,53.97004 -101.82773,53.94251c-37.70496,-0.02752 -75.25406,-20.13906 -101.82773,-53.94251c-26.57368,-33.80345 -42.17193,-81.29881 -42.17843,-130.22875c-0.00649,-48.92994 15.57877,-99.29444 42.17843,-130.22875z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_76846c62-2074-4fa8-9b29-a541524891db\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://bibliotheque-numerique.inha.fr/iiif/65631/canvas/1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Repetition of the human pattern.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Repetition of the human pattern.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/150180019",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-06T20:04:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707249868326",
+    "dcterms:modified" : "2024-02-06T20:04:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MarinaHervieu.github.io/IIIF_EnglishClass/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1637,907,274,579"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1677.40597,991.41534c25.30133,-48.64341 60.99297,-84.86652 96.85756,-84.82324v0v0c35.86459,0.04328 67.10867,33.92941 96.85756,84.82324c29.74889,50.89383 41.31191,128.44621 40.11971,204.78142c-1.19219,76.3352 -15.13959,151.45323 -40.11971,204.78142c-24.98012,53.32818 -60.99297,84.86652 -96.85756,84.82324c-35.86459,-0.04328 -71.58093,-31.66817 -96.85756,-84.82324c-25.27663,-53.15507 -40.11354,-127.84033 -40.11971,-204.78142c-0.00618,-76.94109 14.81838,-156.138 40.11971,-204.78142z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_88fc0b6a-19d1-40de-bc33-693a457d6a30\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://bibliotheque-numerique.inha.fr/iiif/65631/canvas/1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Repetition of the human pattern.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Repetition of the human pattern.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/150180019",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-06T20:04:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707249893771",
+    "dcterms:modified" : "2024-02-06T20:04:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MarinaHervieu.github.io/IIIF_EnglishClass/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2128,910,348,718"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2178.45548,1015.13669c32.11342,-60.28083 77.4146,-105.16992 122.93531,-105.11629v0v0c45.52071,0.05363 85.17689,42.04665 122.93531,105.11629c37.75843,63.06964 52.43465,159.17559 50.92147,253.77317c-1.51318,94.59758 -19.21575,187.68679 -50.92147,253.77317c-31.70573,66.08638 -77.4146,105.16992 -122.93531,105.11629c-45.52071,-0.05363 -90.85325,-39.24444 -122.93531,-105.11629c-32.08206,-65.87185 -50.91363,-158.42476 -50.92147,-253.77317c-0.00784,-95.34841 18.80805,-193.49234 50.92147,-253.77317z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_70076b90-5b46-4cf4-b08c-69636e996ba4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://bibliotheque-numerique.inha.fr/iiif/65631/canvas/1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Repetition of the human pattern.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Repetition of the human pattern.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/150180019",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-06T20:04:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707249854213",
+    "dcterms:modified" : "2024-02-06T20:04:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MarinaHervieu.github.io/IIIF_EnglishClass/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2534,809,292,368"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2576.80718,862.82789c26.9706,-30.93431 65.01701,-53.97004 103.24779,-53.94251v0v0c38.23078,0.02752 71.5362,21.57708 103.24779,53.94251c31.71159,32.36544 44.03748,81.68412 42.76663,130.22875c-1.27085,48.54463 -16.13843,96.31521 -42.76663,130.22875c-26.6282,33.91354 -65.01701,53.97004 -103.24779,53.94251c-38.23078,-0.02752 -76.30352,-20.13906 -103.24779,-53.94251c-26.94426,-33.80345 -42.76005,-81.29881 -42.76663,-130.22875c-0.00658,-48.92994 15.79603,-99.29444 42.76663,-130.22875z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_96670031-6546-4749-82c5-e94e7a922ffc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://bibliotheque-numerique.inha.fr/iiif/65631/canvas/1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Architecture naval from French Britanny : this boat is also a Sinagot. But, the yacht has only rigged a mainsail and a jib on a small bowsprit, as she is venturing out to sea, far from the coast. Traditionally, this small boat does not leave the open sea. This type of boat is on display at the Mus&eacute;e de la Marine in Douarnenez. <a title=\"Port-Mus&eacute;e de Douarnenez.\" href=\"https://www.port-musee.org/\" target=\"_blank\" rel=\"noopener\">https://www.port-musee.org/",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Architecture naval</strong> from French Britanny : this boat is also a <strong>Sinagot</strong>. But, the yacht has only rigged a mainsail and a jib on a small bowsprit, as she is venturing out to sea, far from the coast. Traditionally, this small boat does not leave the open sea. <br />This type of boat is on display at the Mus&eacute;e de la Marine in Douarnenez. <a title=\"Port-Mus&eacute;e de Douarnenez.\" href=\"https://www.port-musee.org/\" target=\"_blank\" rel=\"noopener\">https://www.port-musee.org/</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/150180019",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-02-06T20:27:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1707251240209",
+    "dcterms:modified" : "2024-02-06T20:31:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MarinaHervieu.github.io/IIIF_EnglishClass/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=839,253,663,618"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M839.22399,252.73684h331.26928v0h331.26928v309.05386v309.05386h-331.26928h-331.26928v-309.05386z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_acc1cf61-487a-47ed-837f-429a2210db09\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"23.69645\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://bibliotheque-numerique.inha.fr/iiif/65631/canvas/1"
+    } ]
+  } ],
+  "@id" : "https://MarinaHervieu.github.io/IIIF_EnglishClass/annotations/6ebf10093527b3fc92ea139d89b82b4b.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
