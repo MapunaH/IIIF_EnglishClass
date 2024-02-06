@@ -62,7 +62,7 @@
           "height" : 2412,
           "width" : 3164,
           "@type" : "dctypes:Image",
-          "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/6c/47/e0/7b/6c47e07b-0047-4095-8419-4a26cddd04e1/iiif/1092_doucet_EMRIVIERE027.tif"
+          "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/6c/47/e0/7b/6c47e07b-0047-4095-8419-4a26cddd04e1/iiif/1092_doucet_EMRIVIERE027.tif/full/full/0/default.jpg"
         }
       } ],
       "related" : {
@@ -110,6 +110,11 @@
           "width" : 3168
         },
         "on" : "https://bibliotheque-numerique.inha.fr/iiif/65646/canvas/1"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://marinahervieu.github.io/IIIF_EnglishClass/annotations/6ebf10093527b3fc92ea139d89b82b4b.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : [ {
         "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65646/manifest",
@@ -160,6 +165,11 @@
           "width" : 3180
         },
         "on" : "https://bibliotheque-numerique.inha.fr/iiif/65631/canvas/1"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://marinahervieu.github.io/IIIF_EnglishClass/annotations/6ebf10093527b3fc92ea139d89b82b4b.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : {
         "@id" : "https://bibliotheque-numerique.inha.fr/iiif/65631/manifest",
