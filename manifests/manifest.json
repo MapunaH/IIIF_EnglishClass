@@ -57,7 +57,7 @@
           "service" : {
             "@context" : "https://iiif.io/api/image/2/context.json",
             "profile" : "https://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
-            "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/6c/47/e0/7b/6c47e07b-0047-4095-8419-4a26cddd04e1/iiif/1092_doucet_EMRIVIERE027.tif"
+            "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/6c/47/e0/7b/6c47e07b-0047-4095-8419-4a26cddd04e1/iiif/1092_doucet_EMRIVIERE027.tif/full/full/0/default.jpg"
           },
           "height" : 2412,
           "width" : 3164,
