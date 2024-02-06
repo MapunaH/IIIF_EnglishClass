@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://MarinaHervieu.github.io/IIIF_EnglishClass/annotations/6ebf10093527b3fc92ea139d89b82b4b.json" ],
+  "@id" : "https://MarinaHervieu.github.io/IIIF_EnglishClass/annotations/collection.json",
+  "label" : "All annotations loaded in MarinaHervieu/IIIF_EnglishClass project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
